@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Radore.MessageBus
-build_property.ProjectDir = C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.MessageBus\
+build_property.ProjectDir = c:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.MessageBus\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
