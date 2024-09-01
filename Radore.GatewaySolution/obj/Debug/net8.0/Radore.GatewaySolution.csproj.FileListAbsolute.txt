@@ -1,0 +1,98 @@
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\appsettings.json
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Radore.GatewaySolution.exe
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Radore.GatewaySolution.deps.json
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Radore.GatewaySolution.runtimeconfig.json
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Radore.GatewaySolution.dll
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Radore.GatewaySolution.pdb
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\IdentityModel.dll
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Ocelot.dll
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\Radore.GatewaySolution.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\Radore.GatewaySolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\Radore.GatewaySolution.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\Radore.GatewaySolution.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\Radore.GatewaySolution.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\Radore.GatewaySolution.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\Radore.GatewaySolution.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\staticwebassets\msbuild.Radore.GatewaySolution.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\staticwebassets\msbuild.build.Radore.GatewaySolution.props
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Radore.GatewaySolution.props
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Radore.GatewaySolution.props
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\scopedcss\bundle\Radore.GatewaySolution.styles.css
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\Radore.G.4F58D6B9.Up2Date
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\Radore.GatewaySolution.dll
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\refint\Radore.GatewaySolution.dll
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\Radore.GatewaySolution.pdb
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\Radore.GatewaySolution.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\ref\Radore.GatewaySolution.dll
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\appsettings.json
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Radore.GatewaySolution.exe
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Radore.GatewaySolution.deps.json
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Radore.GatewaySolution.runtimeconfig.json
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Radore.GatewaySolution.dll
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Radore.GatewaySolution.pdb
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\IdentityModel.dll
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Ocelot.dll
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\Radore.GatewaySolution.csproj.AssemblyReference.cache
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\Radore.GatewaySolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\Radore.GatewaySolution.AssemblyInfoInputs.cache
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\Radore.GatewaySolution.AssemblyInfo.cs
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\Radore.GatewaySolution.csproj.CoreCompileInputs.cache
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\Radore.GatewaySolution.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\Radore.GatewaySolution.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\staticwebassets\msbuild.Radore.GatewaySolution.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\staticwebassets\msbuild.build.Radore.GatewaySolution.props
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Radore.GatewaySolution.props
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Radore.GatewaySolution.props
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\scopedcss\bundle\Radore.GatewaySolution.styles.css
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\Radore.GatewaySolution.csproj.CopyComplete
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\Radore.GatewaySolution.dll
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\refint\Radore.GatewaySolution.dll
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\Radore.GatewaySolution.pdb
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\Radore.GatewaySolution.genruntimeconfig.cache
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.GatewaySolution\obj\Debug\net8.0\ref\Radore.GatewaySolution.dll

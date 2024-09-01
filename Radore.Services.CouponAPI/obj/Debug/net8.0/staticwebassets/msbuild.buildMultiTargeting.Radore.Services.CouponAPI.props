@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Radore.Services.CouponAPI.props" />
+</Project>

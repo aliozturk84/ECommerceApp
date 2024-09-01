@@ -1,0 +1,2002 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E3E12F-A5F1-4BBC-8E1A-7D3B4DC1E309}|Radore.Services.ProductAPI\\Radore.Services.ProductAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.productapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3E3E12F-A5F1-4BBC-8E1A-7D3B4DC1E309}|Radore.Services.ProductAPI\\Radore.Services.ProductAPI.csproj|solutionrelative:radore.services.productapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\services\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\services\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\areas\\customer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\areas\\customer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\areas\\customer\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\areas\\customer\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\areas\\customer\\views\\cart\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\areas\\customer\\views\\cart\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\areas\\customer\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\areas\\customer\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\areas\\customer\\views\\cart\\cartindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\areas\\customer\\views\\cart\\cartindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\areas\\admin\\views\\yonetici\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\areas\\admin\\views\\yonetici\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\areas\\admin\\views\\yonetici\\git.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\areas\\admin\\views\\yonetici\\git.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\areas\\admin\\views\\product\\productindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\areas\\admin\\views\\product\\productindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\areas\\admin\\views\\product\\productedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\areas\\admin\\views\\product\\productedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\areas\\admin\\views\\product\\productdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\areas\\admin\\views\\product\\productdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\areas\\admin\\views\\product\\productcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\areas\\admin\\views\\product\\productcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\areas\\admin\\controllers\\yoneticicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\areas\\admin\\controllers\\yoneticicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73630EA1-2E43-4D98-9504-43DB186AAA7D}|Radore.Services.CouponAPI\\Radore.Services.CouponAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73630EA1-2E43-4D98-9504-43DB186AAA7D}|Radore.Services.CouponAPI\\Radore.Services.CouponAPI.csproj|solutionrelative:radore.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1899EB-D9EB-472B-858D-5A3777DBB737}|Radore.Services.Identity\\Radore.Services.Identity.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.identity\\initializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1899EB-D9EB-472B-858D-5A3777DBB737}|Radore.Services.Identity\\Radore.Services.Identity.csproj|solutionrelative:radore.services.identity\\initializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1899EB-D9EB-472B-858D-5A3777DBB737}|Radore.Services.Identity\\Radore.Services.Identity.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.identity\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1899EB-D9EB-472B-858D-5A3777DBB737}|Radore.Services.Identity\\Radore.Services.Identity.csproj|solutionrelative:radore.services.identity\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\areas\\customer\\views\\home\\privacy.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\areas\\customer\\views\\home\\privacy.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\areas\\customer\\views\\_viewstart.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\areas\\customer\\views\\_viewstart.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\views\\shared\\_adminloginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\views\\shared\\_adminloginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\viewmodels\\uploadimageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\viewmodels\\uploadimageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\viewmodels\\editimageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\viewmodels\\editimageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\radore.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\radore.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\services\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\services\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\services\\iservices\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\services\\iservices\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\services\\iservices\\icouponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\services\\iservices\\icouponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\services\\iservices\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\services\\iservices\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\models\\apirequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\models\\apirequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\models\\cartdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\models\\cartdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\models\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\models\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\models\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\models\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\models\\cartheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\models\\cartheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.web\\models\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4286026D-2CC6-4041-B79A-23D6A61F5145}|Radore.Web\\Radore.Web.csproj|solutionrelative:radore.web\\models\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB62F91-5FE5-4928-B39C-5935FD25B2D9}|Radore.GatewaySolution\\Radore.GatewaySolution.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.gatewaysolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB62F91-5FE5-4928-B39C-5935FD25B2D9}|Radore.GatewaySolution\\Radore.GatewaySolution.csproj|solutionrelative:radore.gatewaysolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB62F91-5FE5-4928-B39C-5935FD25B2D9}|Radore.GatewaySolution\\Radore.GatewaySolution.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.gatewaysolution\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DBB62F91-5FE5-4928-B39C-5935FD25B2D9}|Radore.GatewaySolution\\Radore.GatewaySolution.csproj|solutionrelative:radore.gatewaysolution\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB62F91-5FE5-4928-B39C-5935FD25B2D9}|Radore.GatewaySolution\\Radore.GatewaySolution.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.gatewaysolution\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DBB62F91-5FE5-4928-B39C-5935FD25B2D9}|Radore.GatewaySolution\\Radore.GatewaySolution.csproj|solutionrelative:radore.gatewaysolution\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB62F91-5FE5-4928-B39C-5935FD25B2D9}|Radore.GatewaySolution\\Radore.GatewaySolution.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.gatewaysolution\\radore.gatewaysolution.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DBB62F91-5FE5-4928-B39C-5935FD25B2D9}|Radore.GatewaySolution\\Radore.GatewaySolution.csproj|solutionrelative:radore.gatewaysolution\\radore.gatewaysolution.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1899EB-D9EB-472B-858D-5A3777DBB737}|Radore.Services.Identity\\Radore.Services.Identity.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.identity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1899EB-D9EB-472B-858D-5A3777DBB737}|Radore.Services.Identity\\Radore.Services.Identity.csproj|solutionrelative:radore.services.identity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1899EB-D9EB-472B-858D-5A3777DBB737}|Radore.Services.Identity\\Radore.Services.Identity.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.identity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA1899EB-D9EB-472B-858D-5A3777DBB737}|Radore.Services.Identity\\Radore.Services.Identity.csproj|solutionrelative:radore.services.identity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1899EB-D9EB-472B-858D-5A3777DBB737}|Radore.Services.Identity\\Radore.Services.Identity.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.identity\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1899EB-D9EB-472B-858D-5A3777DBB737}|Radore.Services.Identity\\Radore.Services.Identity.csproj|solutionrelative:radore.services.identity\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1899EB-D9EB-472B-858D-5A3777DBB737}|Radore.Services.Identity\\Radore.Services.Identity.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.identity\\initializer\\idbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1899EB-D9EB-472B-858D-5A3777DBB737}|Radore.Services.Identity\\Radore.Services.Identity.csproj|solutionrelative:radore.services.identity\\initializer\\idbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1899EB-D9EB-472B-858D-5A3777DBB737}|Radore.Services.Identity\\Radore.Services.Identity.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.identity\\radore.services.identity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EA1899EB-D9EB-472B-858D-5A3777DBB737}|Radore.Services.Identity\\Radore.Services.Identity.csproj|solutionrelative:radore.services.identity\\radore.services.identity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1899EB-D9EB-472B-858D-5A3777DBB737}|Radore.Services.Identity\\Radore.Services.Identity.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.identity\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA1899EB-D9EB-472B-858D-5A3777DBB737}|Radore.Services.Identity\\Radore.Services.Identity.csproj|solutionrelative:radore.services.identity\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1899EB-D9EB-472B-858D-5A3777DBB737}|Radore.Services.Identity\\Radore.Services.Identity.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.identity\\services\\profileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1899EB-D9EB-472B-858D-5A3777DBB737}|Radore.Services.Identity\\Radore.Services.Identity.csproj|solutionrelative:radore.services.identity\\services\\profileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1899EB-D9EB-472B-858D-5A3777DBB737}|Radore.Services.Identity\\Radore.Services.Identity.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.identity\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA1899EB-D9EB-472B-858D-5A3777DBB737}|Radore.Services.Identity\\Radore.Services.Identity.csproj|solutionrelative:radore.services.identity\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1899EB-D9EB-472B-858D-5A3777DBB737}|Radore.Services.Identity\\Radore.Services.Identity.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.identity\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA1899EB-D9EB-472B-858D-5A3777DBB737}|Radore.Services.Identity\\Radore.Services.Identity.csproj|solutionrelative:radore.services.identity\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1899EB-D9EB-472B-858D-5A3777DBB737}|Radore.Services.Identity\\Radore.Services.Identity.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.identity\\mainmodule\\account\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1899EB-D9EB-472B-858D-5A3777DBB737}|Radore.Services.Identity\\Radore.Services.Identity.csproj|solutionrelative:radore.services.identity\\mainmodule\\account\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1899EB-D9EB-472B-858D-5A3777DBB737}|Radore.Services.Identity\\Radore.Services.Identity.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.identity\\models\\applicaitonuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1899EB-D9EB-472B-858D-5A3777DBB737}|Radore.Services.Identity\\Radore.Services.Identity.csproj|solutionrelative:radore.services.identity\\models\\applicaitonuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73630EA1-2E43-4D98-9504-43DB186AAA7D}|Radore.Services.CouponAPI\\Radore.Services.CouponAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.couponapi\\migrations\\20240828104650_databaseinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73630EA1-2E43-4D98-9504-43DB186AAA7D}|Radore.Services.CouponAPI\\Radore.Services.CouponAPI.csproj|solutionrelative:radore.services.couponapi\\migrations\\20240828104650_databaseinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73630EA1-2E43-4D98-9504-43DB186AAA7D}|Radore.Services.CouponAPI\\Radore.Services.CouponAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.couponapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73630EA1-2E43-4D98-9504-43DB186AAA7D}|Radore.Services.CouponAPI\\Radore.Services.CouponAPI.csproj|solutionrelative:radore.services.couponapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73630EA1-2E43-4D98-9504-43DB186AAA7D}|Radore.Services.CouponAPI\\Radore.Services.CouponAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73630EA1-2E43-4D98-9504-43DB186AAA7D}|Radore.Services.CouponAPI\\Radore.Services.CouponAPI.csproj|solutionrelative:radore.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73630EA1-2E43-4D98-9504-43DB186AAA7D}|Radore.Services.CouponAPI\\Radore.Services.CouponAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73630EA1-2E43-4D98-9504-43DB186AAA7D}|Radore.Services.CouponAPI\\Radore.Services.CouponAPI.csproj|solutionrelative:radore.services.couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73630EA1-2E43-4D98-9504-43DB186AAA7D}|Radore.Services.CouponAPI\\Radore.Services.CouponAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.couponapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73630EA1-2E43-4D98-9504-43DB186AAA7D}|Radore.Services.CouponAPI\\Radore.Services.CouponAPI.csproj|solutionrelative:radore.services.couponapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73630EA1-2E43-4D98-9504-43DB186AAA7D}|Radore.Services.CouponAPI\\Radore.Services.CouponAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.couponapi\\radore.services.couponapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{73630EA1-2E43-4D98-9504-43DB186AAA7D}|Radore.Services.CouponAPI\\Radore.Services.CouponAPI.csproj|solutionrelative:radore.services.couponapi\\radore.services.couponapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.shoppingcartapi\\radore.services.shoppingcartapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|solutionrelative:radore.services.shoppingcartapi\\radore.services.shoppingcartapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73630EA1-2E43-4D98-9504-43DB186AAA7D}|Radore.Services.CouponAPI\\Radore.Services.CouponAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.couponapi\\repository\\couponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73630EA1-2E43-4D98-9504-43DB186AAA7D}|Radore.Services.CouponAPI\\Radore.Services.CouponAPI.csproj|solutionrelative:radore.services.couponapi\\repository\\couponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73630EA1-2E43-4D98-9504-43DB186AAA7D}|Radore.Services.CouponAPI\\Radore.Services.CouponAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.couponapi\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73630EA1-2E43-4D98-9504-43DB186AAA7D}|Radore.Services.CouponAPI\\Radore.Services.CouponAPI.csproj|solutionrelative:radore.services.couponapi\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73630EA1-2E43-4D98-9504-43DB186AAA7D}|Radore.Services.CouponAPI\\Radore.Services.CouponAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.couponapi\\repository\\icouponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73630EA1-2E43-4D98-9504-43DB186AAA7D}|Radore.Services.CouponAPI\\Radore.Services.CouponAPI.csproj|solutionrelative:radore.services.couponapi\\repository\\icouponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73630EA1-2E43-4D98-9504-43DB186AAA7D}|Radore.Services.CouponAPI\\Radore.Services.CouponAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.couponapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73630EA1-2E43-4D98-9504-43DB186AAA7D}|Radore.Services.CouponAPI\\Radore.Services.CouponAPI.csproj|solutionrelative:radore.services.couponapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73630EA1-2E43-4D98-9504-43DB186AAA7D}|Radore.Services.CouponAPI\\Radore.Services.CouponAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.couponapi\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73630EA1-2E43-4D98-9504-43DB186AAA7D}|Radore.Services.CouponAPI\\Radore.Services.CouponAPI.csproj|solutionrelative:radore.services.couponapi\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73630EA1-2E43-4D98-9504-43DB186AAA7D}|Radore.Services.CouponAPI\\Radore.Services.CouponAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.couponapi\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73630EA1-2E43-4D98-9504-43DB186AAA7D}|Radore.Services.CouponAPI\\Radore.Services.CouponAPI.csproj|solutionrelative:radore.services.couponapi\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.shoppingcartapi\\controllers\\cartapicheckoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|solutionrelative:radore.services.shoppingcartapi\\controllers\\cartapicheckoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.shoppingcartapi\\controllers\\cartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|solutionrelative:radore.services.shoppingcartapi\\controllers\\cartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.shoppingcartapi\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|solutionrelative:radore.services.shoppingcartapi\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.shoppingcartapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|solutionrelative:radore.services.shoppingcartapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.shoppingcartapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|solutionrelative:radore.services.shoppingcartapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.shoppingcartapi\\rabbitmqsender\\irabbitmqcartmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|solutionrelative:radore.services.shoppingcartapi\\rabbitmqsender\\irabbitmqcartmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.shoppingcartapi\\rabbitmqsender\\rabbitmqcartmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|solutionrelative:radore.services.shoppingcartapi\\rabbitmqsender\\rabbitmqcartmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.shoppingcartapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|solutionrelative:radore.services.shoppingcartapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.shoppingcartapi\\repository\\couponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|solutionrelative:radore.services.shoppingcartapi\\repository\\couponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.shoppingcartapi\\repository\\icouponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|solutionrelative:radore.services.shoppingcartapi\\repository\\icouponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.shoppingcartapi\\repository\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|solutionrelative:radore.services.shoppingcartapi\\repository\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.shoppingcartapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|solutionrelative:radore.services.shoppingcartapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.shoppingcartapi\\messages\\checkoutheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|solutionrelative:radore.services.shoppingcartapi\\messages\\checkoutheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DDAA45-E1DF-499E-9C9C-FE8B8C992FC4}|Radore.MessageBus\\Radore.MessageBus.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.messagebus\\imessagebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02DDAA45-E1DF-499E-9C9C-FE8B8C992FC4}|Radore.MessageBus\\Radore.MessageBus.csproj|solutionrelative:radore.messagebus\\imessagebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DDAA45-E1DF-499E-9C9C-FE8B8C992FC4}|Radore.MessageBus\\Radore.MessageBus.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.messagebus\\basemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02DDAA45-E1DF-499E-9C9C-FE8B8C992FC4}|Radore.MessageBus\\Radore.MessageBus.csproj|solutionrelative:radore.messagebus\\basemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.shoppingcartapi\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|solutionrelative:radore.services.shoppingcartapi\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.shoppingcartapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|solutionrelative:radore.services.shoppingcartapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.shoppingcartapi\\models\\cartheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|solutionrelative:radore.services.shoppingcartapi\\models\\cartheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.shoppingcartapi\\models\\cartdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|solutionrelative:radore.services.shoppingcartapi\\models\\cartdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.shoppingcartapi\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|solutionrelative:radore.services.shoppingcartapi\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.shoppingcartapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|solutionrelative:radore.services.shoppingcartapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.shoppingcartapi\\models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|solutionrelative:radore.services.shoppingcartapi\\models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.shoppingcartapi\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|solutionrelative:radore.services.shoppingcartapi\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.shoppingcartapi\\models\\dto\\cartheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|solutionrelative:radore.services.shoppingcartapi\\models\\dto\\cartheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.shoppingcartapi\\models\\dto\\cartdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|solutionrelative:radore.services.shoppingcartapi\\models\\dto\\cartdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.shoppingcartapi\\models\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|solutionrelative:radore.services.shoppingcartapi\\models\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E3E12F-A5F1-4BBC-8E1A-7D3B4DC1E309}|Radore.Services.ProductAPI\\Radore.Services.ProductAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3E3E12F-A5F1-4BBC-8E1A-7D3B4DC1E309}|Radore.Services.ProductAPI\\Radore.Services.ProductAPI.csproj|solutionrelative:radore.services.productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E3E12F-A5F1-4BBC-8E1A-7D3B4DC1E309}|Radore.Services.ProductAPI\\Radore.Services.ProductAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3E3E12F-A5F1-4BBC-8E1A-7D3B4DC1E309}|Radore.Services.ProductAPI\\Radore.Services.ProductAPI.csproj|solutionrelative:radore.services.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E3E12F-A5F1-4BBC-8E1A-7D3B4DC1E309}|Radore.Services.ProductAPI\\Radore.Services.ProductAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.productapi\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3E3E12F-A5F1-4BBC-8E1A-7D3B4DC1E309}|Radore.Services.ProductAPI\\Radore.Services.ProductAPI.csproj|solutionrelative:radore.services.productapi\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E3E12F-A5F1-4BBC-8E1A-7D3B4DC1E309}|Radore.Services.ProductAPI\\Radore.Services.ProductAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.productapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3E3E12F-A5F1-4BBC-8E1A-7D3B4DC1E309}|Radore.Services.ProductAPI\\Radore.Services.ProductAPI.csproj|solutionrelative:radore.services.productapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E3E12F-A5F1-4BBC-8E1A-7D3B4DC1E309}|Radore.Services.ProductAPI\\Radore.Services.ProductAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.productapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3E3E12F-A5F1-4BBC-8E1A-7D3B4DC1E309}|Radore.Services.ProductAPI\\Radore.Services.ProductAPI.csproj|solutionrelative:radore.services.productapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E3E12F-A5F1-4BBC-8E1A-7D3B4DC1E309}|Radore.Services.ProductAPI\\Radore.Services.ProductAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.productapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3E3E12F-A5F1-4BBC-8E1A-7D3B4DC1E309}|Radore.Services.ProductAPI\\Radore.Services.ProductAPI.csproj|solutionrelative:radore.services.productapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E3E12F-A5F1-4BBC-8E1A-7D3B4DC1E309}|Radore.Services.ProductAPI\\Radore.Services.ProductAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.productapi\\radore.services.productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3E3E12F-A5F1-4BBC-8E1A-7D3B4DC1E309}|Radore.Services.ProductAPI\\Radore.Services.ProductAPI.csproj|solutionrelative:radore.services.productapi\\radore.services.productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E3E12F-A5F1-4BBC-8E1A-7D3B4DC1E309}|Radore.Services.ProductAPI\\Radore.Services.ProductAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.productapi\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3E3E12F-A5F1-4BBC-8E1A-7D3B4DC1E309}|Radore.Services.ProductAPI\\Radore.Services.ProductAPI.csproj|solutionrelative:radore.services.productapi\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E3E12F-A5F1-4BBC-8E1A-7D3B4DC1E309}|Radore.Services.ProductAPI\\Radore.Services.ProductAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.productapi\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3E3E12F-A5F1-4BBC-8E1A-7D3B4DC1E309}|Radore.Services.ProductAPI\\Radore.Services.ProductAPI.csproj|solutionrelative:radore.services.productapi\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E3E12F-A5F1-4BBC-8E1A-7D3B4DC1E309}|Radore.Services.ProductAPI\\Radore.Services.ProductAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.productapi\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3E3E12F-A5F1-4BBC-8E1A-7D3B4DC1E309}|Radore.Services.ProductAPI\\Radore.Services.ProductAPI.csproj|solutionrelative:radore.services.productapi\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E3E12F-A5F1-4BBC-8E1A-7D3B4DC1E309}|Radore.Services.ProductAPI\\Radore.Services.ProductAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3E3E12F-A5F1-4BBC-8E1A-7D3B4DC1E309}|Radore.Services.ProductAPI\\Radore.Services.ProductAPI.csproj|solutionrelative:radore.services.productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.shoppingcartapi\\migrations\\20240828103448_databaseinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767161F5-CA99-41ED-81A6-6DFA1740E37E}|Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj|solutionrelative:radore.services.shoppingcartapi\\migrations\\20240828103448_databaseinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E3E12F-A5F1-4BBC-8E1A-7D3B4DC1E309}|Radore.Services.ProductAPI\\Radore.Services.ProductAPI.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.productapi\\migrations\\20240828081740_databaseinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3E3E12F-A5F1-4BBC-8E1A-7D3B4DC1E309}|Radore.Services.ProductAPI\\Radore.Services.ProductAPI.csproj|solutionrelative:radore.services.productapi\\migrations\\20240828081740_databaseinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1899EB-D9EB-472B-858D-5A3777DBB737}|Radore.Services.Identity\\Radore.Services.Identity.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\11.gun\\ecommerceradoreornek\\radore.services.identity\\migrations\\20240828115307_databaseinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1899EB-D9EB-472B-858D-5A3777DBB737}|Radore.Services.Identity\\Radore.Services.Identity.csproj|solutionrelative:radore.services.identity\\migrations\\20240828115307_databaseinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Radore.Web\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Services\\ProductService.cs",
+              "RelativeToolTip": "Radore.Web\\Services\\ProductService.cs",
+              "ViewState": "AgIAABkAAAAAmJmZmZkGwCkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:01:50.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\SD.cs",
+              "RelativeDocumentMoniker": "Radore.Web\\SD.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\SD.cs",
+              "RelativeToolTip": "Radore.Web\\SD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:46:09.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Radore.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\appsettings.json",
+              "RelativeToolTip": "Radore.Web\\appsettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T12:46:23.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
+              "RelativeDocumentMoniker": "Radore.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
+              "RelativeToolTip": "Radore.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
+              "ViewState": "AgIAAA4AAABAaGZmZmY6wG4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:03:25.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Services\\BaseService.cs",
+              "RelativeDocumentMoniker": "Radore.Web\\Services\\BaseService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Services\\BaseService.cs",
+              "RelativeToolTip": "Radore.Web\\Services\\BaseService.cs",
+              "ViewState": "AgIAACAAAAAAZWZmZmYUwDoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:58:11.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Services\\IServices\\IProductService.cs",
+              "RelativeDocumentMoniker": "Radore.Web\\Services\\IServices\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Services\\IServices\\IProductService.cs",
+              "RelativeToolTip": "Radore.Web\\Services\\IServices\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:55:47.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Radore.Web\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Radore.Web\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABEAAACAZmZmZuYjwB0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:00:14.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Customer\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Radore.Web\\Areas\\Customer\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Customer\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Radore.Web\\Areas\\Customer\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAFMAAACAZmZmZkYwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:00:12.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Radore.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Program.cs",
+              "RelativeToolTip": "Radore.Web\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAYwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:50:33.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Radore.Web\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Radore.Web\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T13:56:47.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Radore.Web\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Radore.Web\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T14:00:24.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Radore.Web\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Radore.Web\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T14:00:26.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Radore.Web\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Radore.Web\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T14:00:27.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Radore.Web\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Radore.Web\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T14:00:29.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Confirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Customer\\Views\\Cart\\Confirmation.cshtml",
+              "RelativeDocumentMoniker": "Radore.Web\\Areas\\Customer\\Views\\Cart\\Confirmation.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Customer\\Views\\Cart\\Confirmation.cshtml",
+              "RelativeToolTip": "Radore.Web\\Areas\\Customer\\Views\\Cart\\Confirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T14:00:21.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Customer\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "Radore.Web\\Areas\\Customer\\Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Customer\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "Radore.Web\\Areas\\Customer\\Views\\Cart\\Checkout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T14:00:19.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CartIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Customer\\Views\\Cart\\CartIndex.cshtml",
+              "RelativeDocumentMoniker": "Radore.Web\\Areas\\Customer\\Views\\Cart\\CartIndex.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Customer\\Views\\Cart\\CartIndex.cshtml",
+              "RelativeToolTip": "Radore.Web\\Areas\\Customer\\Views\\Cart\\CartIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T14:00:18.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Radore.Web\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Radore.Web\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T14:00:03.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Radore.Web\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Radore.Web\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T13:59:59.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Admin\\Views\\Yonetici\\Index.cshtml",
+              "RelativeDocumentMoniker": "Radore.Web\\Areas\\Admin\\Views\\Yonetici\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Admin\\Views\\Yonetici\\Index.cshtml",
+              "RelativeToolTip": "Radore.Web\\Areas\\Admin\\Views\\Yonetici\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T13:59:58.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Git.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Admin\\Views\\Yonetici\\Git.cshtml",
+              "RelativeDocumentMoniker": "Radore.Web\\Areas\\Admin\\Views\\Yonetici\\Git.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Admin\\Views\\Yonetici\\Git.cshtml",
+              "RelativeToolTip": "Radore.Web\\Areas\\Admin\\Views\\Yonetici\\Git.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T13:59:56.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Admin\\Views\\Product\\ProductIndex.cshtml",
+              "RelativeDocumentMoniker": "Radore.Web\\Areas\\Admin\\Views\\Product\\ProductIndex.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Admin\\Views\\Product\\ProductIndex.cshtml",
+              "RelativeToolTip": "Radore.Web\\Areas\\Admin\\Views\\Product\\ProductIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T13:59:53.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Admin\\Views\\Product\\ProductEdit.cshtml",
+              "RelativeDocumentMoniker": "Radore.Web\\Areas\\Admin\\Views\\Product\\ProductEdit.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Admin\\Views\\Product\\ProductEdit.cshtml",
+              "RelativeToolTip": "Radore.Web\\Areas\\Admin\\Views\\Product\\ProductEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T13:59:50.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductDelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Admin\\Views\\Product\\ProductDelete.cshtml",
+              "RelativeDocumentMoniker": "Radore.Web\\Areas\\Admin\\Views\\Product\\ProductDelete.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Admin\\Views\\Product\\ProductDelete.cshtml",
+              "RelativeToolTip": "Radore.Web\\Areas\\Admin\\Views\\Product\\ProductDelete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T13:59:48.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Admin\\Views\\Product\\ProductCreate.cshtml",
+              "RelativeDocumentMoniker": "Radore.Web\\Areas\\Admin\\Views\\Product\\ProductCreate.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Admin\\Views\\Product\\ProductCreate.cshtml",
+              "RelativeToolTip": "Radore.Web\\Areas\\Admin\\Views\\Product\\ProductCreate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T13:59:30.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "YoneticiController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Admin\\Controllers\\YoneticiController.cs",
+              "RelativeDocumentMoniker": "Radore.Web\\Areas\\Admin\\Controllers\\YoneticiController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Admin\\Controllers\\YoneticiController.cs",
+              "RelativeToolTip": "Radore.Web\\Areas\\Admin\\Controllers\\YoneticiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:59:21.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Radore.Web\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Radore.Web\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAB4AAAAA//////8nwAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:59:04.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.CouponAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Radore.Services.CouponAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.CouponAPI\\Program.cs",
+              "RelativeToolTip": "Radore.Services.CouponAPI\\Program.cs",
+              "ViewState": "AgIAAFIAAADAmZmZmZkewF0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:38:12.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.Identity\\Initializer\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Radore.Services.Identity\\Initializer\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.Identity\\Initializer\\DbInitializer.cs",
+              "RelativeToolTip": "Radore.Services.Identity\\Initializer\\DbInitializer.cs",
+              "ViewState": "AgIAABcAAABgMzMzM/MtwBoAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:14:16.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Radore.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Radore.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T13:43:20.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.Identity\\SD.cs",
+              "RelativeDocumentMoniker": "Radore.Services.Identity\\SD.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.Identity\\SD.cs",
+              "RelativeToolTip": "Radore.Services.Identity\\SD.cs",
+              "ViewState": "AgIAABwAAAAAmZmZmZn/vzYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:42:28.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Radore.Web\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Radore.Web\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T13:29:21.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Radore.Web\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Radore.Web\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T13:25:49.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_AdminLoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Views\\Shared\\_AdminLoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Radore.Web\\Views\\Shared\\_AdminLoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Views\\Shared\\_AdminLoginPartial.cshtml",
+              "RelativeToolTip": "Radore.Web\\Views\\Shared\\_AdminLoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T13:23:22.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Radore.Web\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Radore.Web\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T13:22:08.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Radore.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Radore.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAYwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T13:16:25.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Radore.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Radore.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T13:16:21.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\ViewModels\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "Radore.Web\\ViewModels\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\ViewModels\\ProductViewModel.cs",
+              "RelativeToolTip": "Radore.Web\\ViewModels\\ProductViewModel.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAKA5wBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:09:59.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UploadImageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\ViewModels\\UploadImageViewModel.cs",
+              "RelativeDocumentMoniker": "Radore.Web\\ViewModels\\UploadImageViewModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\ViewModels\\UploadImageViewModel.cs",
+              "RelativeToolTip": "Radore.Web\\ViewModels\\UploadImageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:09:18.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EditImageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\ViewModels\\EditImageViewModel.cs",
+              "RelativeDocumentMoniker": "Radore.Web\\ViewModels\\EditImageViewModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\ViewModels\\EditImageViewModel.cs",
+              "RelativeToolTip": "Radore.Web\\ViewModels\\EditImageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:08:45.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Radore.Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Radore.Web\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T13:02:48.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CouponService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Services\\CouponService.cs",
+              "RelativeDocumentMoniker": "Radore.Web\\Services\\CouponService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Services\\CouponService.cs",
+              "RelativeToolTip": "Radore.Web\\Services\\CouponService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:01:09.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "Radore.Web\\Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Services\\CartService.cs",
+              "RelativeToolTip": "Radore.Web\\Services\\CartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:00:32.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Services\\IServices\\ICartService.cs",
+              "RelativeDocumentMoniker": "Radore.Web\\Services\\IServices\\ICartService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Services\\IServices\\ICartService.cs",
+              "RelativeToolTip": "Radore.Web\\Services\\IServices\\ICartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:57:19.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Radore.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Radore.Web.csproj",
+              "RelativeDocumentMoniker": "Radore.Web\\Radore.Web.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Radore.Web.csproj",
+              "RelativeToolTip": "Radore.Web\\Radore.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-28T12:31:28.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ICouponService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Services\\IServices\\ICouponService.cs",
+              "RelativeDocumentMoniker": "Radore.Web\\Services\\IServices\\ICouponService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Services\\IServices\\ICouponService.cs",
+              "RelativeToolTip": "Radore.Web\\Services\\IServices\\ICouponService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:56:28.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Services\\IServices\\IBaseService.cs",
+              "RelativeDocumentMoniker": "Radore.Web\\Services\\IServices\\IBaseService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Services\\IServices\\IBaseService.cs",
+              "RelativeToolTip": "Radore.Web\\Services\\IServices\\IBaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:55:11.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Radore.Web\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Radore.Web\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-28T12:52:29.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CartDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Models\\CartDetailsDto.cs",
+              "RelativeDocumentMoniker": "Radore.Web\\Models\\CartDetailsDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Models\\CartDetailsDto.cs",
+              "RelativeToolTip": "Radore.Web\\Models\\CartDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:45:31.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ApiRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Models\\ApiRequest.cs",
+              "RelativeDocumentMoniker": "Radore.Web\\Models\\ApiRequest.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Models\\ApiRequest.cs",
+              "RelativeToolTip": "Radore.Web\\Models\\ApiRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:44:41.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Models\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "Radore.Web\\Models\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Models\\ResponseDto.cs",
+              "RelativeToolTip": "Radore.Web\\Models\\ResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:43:49.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Models\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Radore.Web\\Models\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Models\\ProductDto.cs",
+              "RelativeToolTip": "Radore.Web\\Models\\ProductDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:43:15.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CouponDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Models\\CouponDto.cs",
+              "RelativeDocumentMoniker": "Radore.Web\\Models\\CouponDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Models\\CouponDto.cs",
+              "RelativeToolTip": "Radore.Web\\Models\\CouponDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:42:34.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CartHeaderDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Models\\CartHeaderDto.cs",
+              "RelativeDocumentMoniker": "Radore.Web\\Models\\CartHeaderDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Models\\CartHeaderDto.cs",
+              "RelativeToolTip": "Radore.Web\\Models\\CartHeaderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:42:01.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CartDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Models\\CartDto.cs",
+              "RelativeDocumentMoniker": "Radore.Web\\Models\\CartDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Web\\Models\\CartDto.cs",
+              "RelativeToolTip": "Radore.Web\\Models\\CartDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:41:07.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.GatewaySolution\\Program.cs",
+              "RelativeDocumentMoniker": "Radore.GatewaySolution\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.GatewaySolution\\Program.cs",
+              "RelativeToolTip": "Radore.GatewaySolution\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:27:48.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.GatewaySolution\\appsettings.json",
+              "RelativeDocumentMoniker": "Radore.GatewaySolution\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.GatewaySolution\\appsettings.json",
+              "RelativeToolTip": "Radore.GatewaySolution\\appsettings.json",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAswNEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T12:26:29.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.GatewaySolution\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Radore.GatewaySolution\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.GatewaySolution\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Radore.GatewaySolution\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T12:24:46.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Radore.GatewaySolution.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.GatewaySolution\\Radore.GatewaySolution.csproj",
+              "RelativeDocumentMoniker": "Radore.GatewaySolution\\Radore.GatewaySolution.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.GatewaySolution\\Radore.GatewaySolution.csproj",
+              "RelativeToolTip": "Radore.GatewaySolution\\Radore.GatewaySolution.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-28T12:21:58.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "20240828115307_DatabaseInit.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.Identity\\Migrations\\20240828115307_DatabaseInit.cs",
+              "RelativeDocumentMoniker": "Radore.Services.Identity\\Migrations\\20240828115307_DatabaseInit.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.Identity\\Migrations\\20240828115307_DatabaseInit.cs",
+              "RelativeToolTip": "Radore.Services.Identity\\Migrations\\20240828115307_DatabaseInit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:53:07.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.Identity\\Program.cs",
+              "RelativeDocumentMoniker": "Radore.Services.Identity\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.Identity\\Program.cs",
+              "RelativeToolTip": "Radore.Services.Identity\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAVWZmZmb0vyQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:44:31.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.Identity\\appsettings.json",
+              "RelativeDocumentMoniker": "Radore.Services.Identity\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.Identity\\appsettings.json",
+              "RelativeToolTip": "Radore.Services.Identity\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T11:46:09.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.Identity\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Radore.Services.Identity\\DbContexts\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.Identity\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Radore.Services.Identity\\DbContexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:38:28.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IDbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.Identity\\Initializer\\IDbInitializer.cs",
+              "RelativeDocumentMoniker": "Radore.Services.Identity\\Initializer\\IDbInitializer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.Identity\\Initializer\\IDbInitializer.cs",
+              "RelativeToolTip": "Radore.Services.Identity\\Initializer\\IDbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:12:49.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Radore.Services.Identity.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.Identity\\Radore.Services.Identity.csproj",
+              "RelativeDocumentMoniker": "Radore.Services.Identity\\Radore.Services.Identity.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.Identity\\Radore.Services.Identity.csproj",
+              "RelativeToolTip": "Radore.Services.Identity\\Radore.Services.Identity.csproj",
+              "ViewState": "AgIAAAAAAAAAAQAAAAD0vxoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-28T11:04:49.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.Identity\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Radore.Services.Identity\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.Identity\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Radore.Services.Identity\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T11:44:46.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.Identity\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Radore.Services.Identity\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.Identity\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Radore.Services.Identity\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T11:09:16.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ProfileService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.Identity\\Services\\ProfileService.cs",
+              "RelativeDocumentMoniker": "Radore.Services.Identity\\Services\\ProfileService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.Identity\\Services\\ProfileService.cs",
+              "RelativeToolTip": "Radore.Services.Identity\\Services\\ProfileService.cs",
+              "ViewState": "AgIAACwAAACQmZmZmVkiwD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:10:31.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.Identity\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Radore.Services.Identity\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.Identity\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "Radore.Services.Identity\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T11:09:10.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ApplicaitonUser.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.Identity\\Models\\ApplicaitonUser.cs",
+              "RelativeDocumentMoniker": "Radore.Services.Identity\\Models\\ApplicaitonUser.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.Identity\\Models\\ApplicaitonUser.cs",
+              "RelativeToolTip": "Radore.Services.Identity\\Models\\ApplicaitonUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:08:16.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.Identity\\MainModule\\Account\\AccountController.cs",
+              "RelativeDocumentMoniker": "Radore.Services.Identity\\MainModule\\Account\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.Identity\\MainModule\\Account\\AccountController.cs",
+              "RelativeToolTip": "Radore.Services.Identity\\MainModule\\Account\\AccountController.cs",
+              "ViewState": "AgIAACwAAAAAZmZmZmb0vyUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:05:43.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20240828104650_DatabaseInit.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.CouponAPI\\Migrations\\20240828104650_DatabaseInit.cs",
+              "RelativeDocumentMoniker": "Radore.Services.CouponAPI\\Migrations\\20240828104650_DatabaseInit.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.CouponAPI\\Migrations\\20240828104650_DatabaseInit.cs",
+              "RelativeToolTip": "Radore.Services.CouponAPI\\Migrations\\20240828104650_DatabaseInit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:46:50.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.CouponAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Radore.Services.CouponAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.CouponAPI\\appsettings.json",
+              "RelativeToolTip": "Radore.Services.CouponAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T10:40:07.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.CouponAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Radore.Services.CouponAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.CouponAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Radore.Services.CouponAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T10:39:32.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.CouponAPI\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "Radore.Services.CouponAPI\\MappingConfig.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.CouponAPI\\MappingConfig.cs",
+              "RelativeToolTip": "Radore.Services.CouponAPI\\MappingConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA2wAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:37:23.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "CouponAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "RelativeDocumentMoniker": "Radore.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "RelativeToolTip": "Radore.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAIBJwAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:36:36.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "20240828103448_DatabaseInit.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Migrations\\20240828103448_DatabaseInit.cs",
+              "RelativeDocumentMoniker": "Radore.Services.ShoppingCartAPI\\Migrations\\20240828103448_DatabaseInit.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Migrations\\20240828103448_DatabaseInit.cs",
+              "RelativeToolTip": "Radore.Services.ShoppingCartAPI\\Migrations\\20240828103448_DatabaseInit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:34:48.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Radore.Services.CouponAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.CouponAPI\\Radore.Services.CouponAPI.csproj",
+              "RelativeDocumentMoniker": "Radore.Services.CouponAPI\\Radore.Services.CouponAPI.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.CouponAPI\\Radore.Services.CouponAPI.csproj",
+              "RelativeToolTip": "Radore.Services.CouponAPI\\Radore.Services.CouponAPI.csproj",
+              "ViewState": "AgIAAAoAAAAAAAAAAABBwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-28T10:28:59.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "CouponRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.CouponAPI\\Repository\\CouponRepository.cs",
+              "RelativeDocumentMoniker": "Radore.Services.CouponAPI\\Repository\\CouponRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.CouponAPI\\Repository\\CouponRepository.cs",
+              "RelativeToolTip": "Radore.Services.CouponAPI\\Repository\\CouponRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:30:20.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.CouponAPI\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Radore.Services.CouponAPI\\DbContexts\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.CouponAPI\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Radore.Services.CouponAPI\\DbContexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:31:13.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Radore.Services.ShoppingCartAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj",
+              "RelativeDocumentMoniker": "Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj",
+              "RelativeToolTip": "Radore.Services.ShoppingCartAPI\\Radore.Services.ShoppingCartAPI.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAABBwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-28T08:36:47.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "ICouponRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.CouponAPI\\Repository\\ICouponRepository.cs",
+              "RelativeDocumentMoniker": "Radore.Services.CouponAPI\\Repository\\ICouponRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.CouponAPI\\Repository\\ICouponRepository.cs",
+              "RelativeToolTip": "Radore.Services.CouponAPI\\Repository\\ICouponRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:29:27.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.CouponAPI\\Models\\Dto\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "Radore.Services.CouponAPI\\Models\\Dto\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.CouponAPI\\Models\\Dto\\ResponseDto.cs",
+              "RelativeToolTip": "Radore.Services.CouponAPI\\Models\\Dto\\ResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:27:48.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "CouponDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.CouponAPI\\Models\\Dto\\CouponDto.cs",
+              "RelativeDocumentMoniker": "Radore.Services.CouponAPI\\Models\\Dto\\CouponDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.CouponAPI\\Models\\Dto\\CouponDto.cs",
+              "RelativeToolTip": "Radore.Services.CouponAPI\\Models\\Dto\\CouponDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:26:39.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Coupon.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.CouponAPI\\Models\\Coupon.cs",
+              "RelativeDocumentMoniker": "Radore.Services.CouponAPI\\Models\\Coupon.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.CouponAPI\\Models\\Coupon.cs",
+              "RelativeToolTip": "Radore.Services.CouponAPI\\Models\\Coupon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:25:59.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Radore.Services.ShoppingCartAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Program.cs",
+              "RelativeToolTip": "Radore.Services.ShoppingCartAPI\\Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAcwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:18:20.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Radore.Services.ShoppingCartAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\appsettings.json",
+              "RelativeToolTip": "Radore.Services.ShoppingCartAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T10:16:10.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "CartAPICheckOutController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Controllers\\CartAPICheckOutController.cs",
+              "RelativeDocumentMoniker": "Radore.Services.ShoppingCartAPI\\Controllers\\CartAPICheckOutController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Controllers\\CartAPICheckOutController.cs",
+              "RelativeToolTip": "Radore.Services.ShoppingCartAPI\\Controllers\\CartAPICheckOutController.cs",
+              "ViewState": "AgIAAJcAAACAMTMzMzMnwG8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T09:01:21.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Repository\\CartRepository.cs",
+              "RelativeDocumentMoniker": "Radore.Services.ShoppingCartAPI\\Repository\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Repository\\CartRepository.cs",
+              "RelativeToolTip": "Radore.Services.ShoppingCartAPI\\Repository\\CartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:57:43.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "RabbitMQCartMessageSender.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\RabbitMQSender\\RabbitMQCartMessageSender.cs",
+              "RelativeDocumentMoniker": "Radore.Services.ShoppingCartAPI\\RabbitMQSender\\RabbitMQCartMessageSender.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\RabbitMQSender\\RabbitMQCartMessageSender.cs",
+              "RelativeToolTip": "Radore.Services.ShoppingCartAPI\\RabbitMQSender\\RabbitMQCartMessageSender.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAABQwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:53:25.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "IRabbitMQCartMessageSender.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\RabbitMQSender\\IRabbitMQCartMessageSender.cs",
+              "RelativeDocumentMoniker": "Radore.Services.ShoppingCartAPI\\RabbitMQSender\\IRabbitMQCartMessageSender.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\RabbitMQSender\\IRabbitMQCartMessageSender.cs",
+              "RelativeToolTip": "Radore.Services.ShoppingCartAPI\\RabbitMQSender\\IRabbitMQCartMessageSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:52:36.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Radore.Services.ShoppingCartAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Radore.Services.ShoppingCartAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T09:02:00.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "CartAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
+              "RelativeDocumentMoniker": "Radore.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
+              "RelativeToolTip": "Radore.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAvwB0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:59:36.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "CouponRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Repository\\CouponRepository.cs",
+              "RelativeDocumentMoniker": "Radore.Services.ShoppingCartAPI\\Repository\\CouponRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Repository\\CouponRepository.cs",
+              "RelativeToolTip": "Radore.Services.ShoppingCartAPI\\Repository\\CouponRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:58:53.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "ICouponRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Repository\\ICouponRepository.cs",
+              "RelativeDocumentMoniker": "Radore.Services.ShoppingCartAPI\\Repository\\ICouponRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Repository\\ICouponRepository.cs",
+              "RelativeToolTip": "Radore.Services.ShoppingCartAPI\\Repository\\ICouponRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:56:45.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Repository\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "Radore.Services.ShoppingCartAPI\\Repository\\ICartRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Repository\\ICartRepository.cs",
+              "RelativeToolTip": "Radore.Services.ShoppingCartAPI\\Repository\\ICartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:56:06.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "Radore.Services.ShoppingCartAPI\\MappingConfig.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\MappingConfig.cs",
+              "RelativeToolTip": "Radore.Services.ShoppingCartAPI\\MappingConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:55:02.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "CheckoutHeaderDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Messages\\CheckoutHeaderDto.cs",
+              "RelativeDocumentMoniker": "Radore.Services.ShoppingCartAPI\\Messages\\CheckoutHeaderDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Messages\\CheckoutHeaderDto.cs",
+              "RelativeToolTip": "Radore.Services.ShoppingCartAPI\\Messages\\CheckoutHeaderDto.cs",
+              "ViewState": "AgIAAAwAAADAmZmZmRk5wBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:51:14.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "BaseMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.MessageBus\\BaseMessage.cs",
+              "RelativeDocumentMoniker": "Radore.MessageBus\\BaseMessage.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.MessageBus\\BaseMessage.cs",
+              "RelativeToolTip": "Radore.MessageBus\\BaseMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:49:02.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "IMessageBus.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.MessageBus\\IMessageBus.cs",
+              "RelativeDocumentMoniker": "Radore.MessageBus\\IMessageBus.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.MessageBus\\IMessageBus.cs",
+              "RelativeToolTip": "Radore.MessageBus\\IMessageBus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:47:25.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Radore.Services.ShoppingCartAPI\\DbContexts\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Radore.Services.ShoppingCartAPI\\DbContexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:45:33.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "CartDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Models\\CartDetails.cs",
+              "RelativeDocumentMoniker": "Radore.Services.ShoppingCartAPI\\Models\\CartDetails.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Models\\CartDetails.cs",
+              "RelativeToolTip": "Radore.Services.ShoppingCartAPI\\Models\\CartDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:39:16.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Radore.Services.ShoppingCartAPI\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Models\\Cart.cs",
+              "RelativeToolTip": "Radore.Services.ShoppingCartAPI\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:38:39.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "CartHeader.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Models\\CartHeader.cs",
+              "RelativeDocumentMoniker": "Radore.Services.ShoppingCartAPI\\Models\\CartHeader.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Models\\CartHeader.cs",
+              "RelativeToolTip": "Radore.Services.ShoppingCartAPI\\Models\\CartHeader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:39:35.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Radore.Services.ShoppingCartAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Models\\Product.cs",
+              "RelativeToolTip": "Radore.Services.ShoppingCartAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:40:20.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Models\\Dto\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "Radore.Services.ShoppingCartAPI\\Models\\Dto\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Models\\Dto\\ResponseDto.cs",
+              "RelativeToolTip": "Radore.Services.ShoppingCartAPI\\Models\\Dto\\ResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:43:57.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Models\\Dto\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Radore.Services.ShoppingCartAPI\\Models\\Dto\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Models\\Dto\\ProductDto.cs",
+              "RelativeToolTip": "Radore.Services.ShoppingCartAPI\\Models\\Dto\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:43:14.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "CouponDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Models\\Dto\\CouponDto.cs",
+              "RelativeDocumentMoniker": "Radore.Services.ShoppingCartAPI\\Models\\Dto\\CouponDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Models\\Dto\\CouponDto.cs",
+              "RelativeToolTip": "Radore.Services.ShoppingCartAPI\\Models\\Dto\\CouponDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:42:49.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "CartHeaderDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Models\\Dto\\CartHeaderDto.cs",
+              "RelativeDocumentMoniker": "Radore.Services.ShoppingCartAPI\\Models\\Dto\\CartHeaderDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Models\\Dto\\CartHeaderDto.cs",
+              "RelativeToolTip": "Radore.Services.ShoppingCartAPI\\Models\\Dto\\CartHeaderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:42:11.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "CartDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Models\\Dto\\CartDetailsDto.cs",
+              "RelativeDocumentMoniker": "Radore.Services.ShoppingCartAPI\\Models\\Dto\\CartDetailsDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Models\\Dto\\CartDetailsDto.cs",
+              "RelativeToolTip": "Radore.Services.ShoppingCartAPI\\Models\\Dto\\CartDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:41:45.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "CartDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Models\\Dto\\CartDto.cs",
+              "RelativeDocumentMoniker": "Radore.Services.ShoppingCartAPI\\Models\\Dto\\CartDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ShoppingCartAPI\\Models\\Dto\\CartDto.cs",
+              "RelativeToolTip": "Radore.Services.ShoppingCartAPI\\Models\\Dto\\CartDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:41:01.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "20240828081740_DatabaseInit.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ProductAPI\\Migrations\\20240828081740_DatabaseInit.cs",
+              "RelativeDocumentMoniker": "Radore.Services.ProductAPI\\Migrations\\20240828081740_DatabaseInit.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ProductAPI\\Migrations\\20240828081740_DatabaseInit.cs",
+              "RelativeToolTip": "Radore.Services.ProductAPI\\Migrations\\20240828081740_DatabaseInit.cs",
+              "ViewState": "AgIAACYAAACAAAAAAEAkwBwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:17:40.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ProductAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Radore.Services.ProductAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ProductAPI\\appsettings.json",
+              "RelativeToolTip": "Radore.Services.ProductAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T08:07:38.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ProductAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Radore.Services.ProductAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ProductAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Radore.Services.ProductAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T08:05:33.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ProductAPI\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Radore.Services.ProductAPI\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ProductAPI\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Radore.Services.ProductAPI\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T07:57:23.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ProductAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Radore.Services.ProductAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ProductAPI\\Program.cs",
+              "RelativeToolTip": "Radore.Services.ProductAPI\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAYWZmZuYWwBQAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T07:53:50.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ProductAPI\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "Radore.Services.ProductAPI\\MappingConfig.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ProductAPI\\MappingConfig.cs",
+              "RelativeToolTip": "Radore.Services.ProductAPI\\MappingConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T07:53:30.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ProductAPI\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Radore.Services.ProductAPI\\DbContexts\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ProductAPI\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Radore.Services.ProductAPI\\DbContexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAACAmZmZmVkqwAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T07:49:49.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ProductAPI\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Radore.Services.ProductAPI\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ProductAPI\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "Radore.Services.ProductAPI\\Repository\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T07:47:21.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ProductAPI\\Dto\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "Radore.Services.ProductAPI\\Dto\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ProductAPI\\Dto\\ResponseDto.cs",
+              "RelativeToolTip": "Radore.Services.ProductAPI\\Dto\\ResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T07:46:12.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "Radore.Services.ProductAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ProductAPI\\Radore.Services.ProductAPI.csproj",
+              "RelativeDocumentMoniker": "Radore.Services.ProductAPI\\Radore.Services.ProductAPI.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ProductAPI\\Radore.Services.ProductAPI.csproj",
+              "RelativeToolTip": "Radore.Services.ProductAPI\\Radore.Services.ProductAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-28T07:41:31.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ProductAPI\\Dto\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Radore.Services.ProductAPI\\Dto\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ProductAPI\\Dto\\ProductDto.cs",
+              "RelativeToolTip": "Radore.Services.ProductAPI\\Dto\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T07:44:42.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ProductAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Radore.Services.ProductAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ProductAPI\\Models\\Product.cs",
+              "RelativeToolTip": "Radore.Services.ProductAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T07:39:19.71Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

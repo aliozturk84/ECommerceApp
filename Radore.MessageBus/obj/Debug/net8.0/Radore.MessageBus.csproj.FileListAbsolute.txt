@@ -1,0 +1,22 @@
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.MessageBus\bin\Debug\net8.0\Radore.MessageBus.deps.json
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.MessageBus\bin\Debug\net8.0\Radore.MessageBus.dll
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.MessageBus\bin\Debug\net8.0\Radore.MessageBus.pdb
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.MessageBus\obj\Debug\net8.0\Radore.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.MessageBus\obj\Debug\net8.0\Radore.MessageBus.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.MessageBus\obj\Debug\net8.0\Radore.MessageBus.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.MessageBus\obj\Debug\net8.0\Radore.MessageBus.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.MessageBus\obj\Debug\net8.0\Radore.MessageBus.dll
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.MessageBus\obj\Debug\net8.0\refint\Radore.MessageBus.dll
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.MessageBus\obj\Debug\net8.0\Radore.MessageBus.pdb
+C:\Users\Administrator\Desktop\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.MessageBus\obj\Debug\net8.0\ref\Radore.MessageBus.dll
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.MessageBus\bin\Debug\net8.0\Radore.MessageBus.deps.json
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.MessageBus\bin\Debug\net8.0\Radore.MessageBus.dll
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.MessageBus\bin\Debug\net8.0\Radore.MessageBus.pdb
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.MessageBus\obj\Debug\net8.0\Radore.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.MessageBus\obj\Debug\net8.0\Radore.MessageBus.AssemblyInfoInputs.cache
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.MessageBus\obj\Debug\net8.0\Radore.MessageBus.AssemblyInfo.cs
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.MessageBus\obj\Debug\net8.0\Radore.MessageBus.csproj.CoreCompileInputs.cache
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.MessageBus\obj\Debug\net8.0\Radore.MessageBus.dll
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.MessageBus\obj\Debug\net8.0\refint\Radore.MessageBus.dll
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.MessageBus\obj\Debug\net8.0\Radore.MessageBus.pdb
+C:\Users\Ali Öztürk\Downloads\RadoreBootcamp (en güncel olan)\RadoreBootcamp\11.gun\EcommerceRadoreOrnek\Radore.MessageBus\obj\Debug\net8.0\ref\Radore.MessageBus.dll

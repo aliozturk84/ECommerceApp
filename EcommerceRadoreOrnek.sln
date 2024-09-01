@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrontEnd", "FrontEnd", "{AE029CD1-C7B1-49E3-84BB-BCA24CAC8940}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gateway", "Gateway", "{911426CC-6F56-4525-8A85-7A57DB9CCA94}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Integration", "Integration", "{EA2E1866-5700-44FE-9D39-9E69DF119355}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{7C5DFBE9-38FB-41B2-BE6C-C6E5E22929E8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Radore.Services.ProductAPI", "Radore.Services.ProductAPI\Radore.Services.ProductAPI.csproj", "{C3E3E12F-A5F1-4BBC-8E1A-7D3B4DC1E309}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Radore.Services.ShoppingCartAPI", "Radore.Services.ShoppingCartAPI\Radore.Services.ShoppingCartAPI.csproj", "{767161F5-CA99-41ED-81A6-6DFA1740E37E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Radore.MessageBus", "Radore.MessageBus\Radore.MessageBus.csproj", "{02DDAA45-E1DF-499E-9C9C-FE8B8C992FC4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Radore.Services.CouponAPI", "Radore.Services.CouponAPI\Radore.Services.CouponAPI.csproj", "{73630EA1-2E43-4D98-9504-43DB186AAA7D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Radore.Services.Identity", "Radore.Services.Identity\Radore.Services.Identity.csproj", "{EA1899EB-D9EB-472B-858D-5A3777DBB737}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Radore.GatewaySolution", "Radore.GatewaySolution\Radore.GatewaySolution.csproj", "{DBB62F91-5FE5-4928-B39C-5935FD25B2D9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Radore.Web", "Radore.Web\Radore.Web.csproj", "{4286026D-2CC6-4041-B79A-23D6A61F5145}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Radore.Services.ChatAPI", "Radore.Services.ChatAPI\Radore.Services.ChatAPI.csproj", "{7ABDD20F-8A6E-4316-AEC9-50D077595BD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3E3E12F-A5F1-4BBC-8E1A-7D3B4DC1E309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3E3E12F-A5F1-4BBC-8E1A-7D3B4DC1E309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3E3E12F-A5F1-4BBC-8E1A-7D3B4DC1E309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3E3E12F-A5F1-4BBC-8E1A-7D3B4DC1E309}.Release|Any CPU.Build.0 = Release|Any CPU
+		{767161F5-CA99-41ED-81A6-6DFA1740E37E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{767161F5-CA99-41ED-81A6-6DFA1740E37E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{767161F5-CA99-41ED-81A6-6DFA1740E37E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{767161F5-CA99-41ED-81A6-6DFA1740E37E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02DDAA45-E1DF-499E-9C9C-FE8B8C992FC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02DDAA45-E1DF-499E-9C9C-FE8B8C992FC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02DDAA45-E1DF-499E-9C9C-FE8B8C992FC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02DDAA45-E1DF-499E-9C9C-FE8B8C992FC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73630EA1-2E43-4D98-9504-43DB186AAA7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73630EA1-2E43-4D98-9504-43DB186AAA7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73630EA1-2E43-4D98-9504-43DB186AAA7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73630EA1-2E43-4D98-9504-43DB186AAA7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA1899EB-D9EB-472B-858D-5A3777DBB737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA1899EB-D9EB-472B-858D-5A3777DBB737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA1899EB-D9EB-472B-858D-5A3777DBB737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA1899EB-D9EB-472B-858D-5A3777DBB737}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBB62F91-5FE5-4928-B39C-5935FD25B2D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBB62F91-5FE5-4928-B39C-5935FD25B2D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBB62F91-5FE5-4928-B39C-5935FD25B2D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBB62F91-5FE5-4928-B39C-5935FD25B2D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4286026D-2CC6-4041-B79A-23D6A61F5145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4286026D-2CC6-4041-B79A-23D6A61F5145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4286026D-2CC6-4041-B79A-23D6A61F5145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4286026D-2CC6-4041-B79A-23D6A61F5145}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ABDD20F-8A6E-4316-AEC9-50D077595BD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ABDD20F-8A6E-4316-AEC9-50D077595BD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ABDD20F-8A6E-4316-AEC9-50D077595BD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ABDD20F-8A6E-4316-AEC9-50D077595BD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C3E3E12F-A5F1-4BBC-8E1A-7D3B4DC1E309} = {7C5DFBE9-38FB-41B2-BE6C-C6E5E22929E8}
+		{767161F5-CA99-41ED-81A6-6DFA1740E37E} = {7C5DFBE9-38FB-41B2-BE6C-C6E5E22929E8}
+		{02DDAA45-E1DF-499E-9C9C-FE8B8C992FC4} = {EA2E1866-5700-44FE-9D39-9E69DF119355}
+		{73630EA1-2E43-4D98-9504-43DB186AAA7D} = {7C5DFBE9-38FB-41B2-BE6C-C6E5E22929E8}
+		{EA1899EB-D9EB-472B-858D-5A3777DBB737} = {7C5DFBE9-38FB-41B2-BE6C-C6E5E22929E8}
+		{DBB62F91-5FE5-4928-B39C-5935FD25B2D9} = {911426CC-6F56-4525-8A85-7A57DB9CCA94}
+		{4286026D-2CC6-4041-B79A-23D6A61F5145} = {AE029CD1-C7B1-49E3-84BB-BCA24CAC8940}
+		{7ABDD20F-8A6E-4316-AEC9-50D077595BD7} = {7C5DFBE9-38FB-41B2-BE6C-C6E5E22929E8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A02B74F6-8D5C-458C-BF51-0D5440BBE2AC}
+	EndGlobalSection
+EndGlobal

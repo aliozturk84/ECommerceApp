@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Ali Öztürk\\Downloads\\RadoreBootcamp (en güncel olan)\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ProductAPI\\wwwroot\\Uploads\\1_EOq2uBhpUXnxzg0IqJo_Dw.webp",
+      "PackagePath": "staticwebassets\\Uploads\\1_EOq2uBhpUXnxzg0IqJo_Dw.webp"
+    },
+    {
+      "Id": "C:\\Users\\Ali Öztürk\\Downloads\\RadoreBootcamp (en güncel olan)\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ProductAPI\\wwwroot\\Uploads\\1_ti1G7uNRcDqTIJGMwqPcjw.webp",
+      "PackagePath": "staticwebassets\\Uploads\\1_ti1G7uNRcDqTIJGMwqPcjw.webp"
+    },
+    {
+      "Id": "C:\\Users\\Ali Öztürk\\Downloads\\RadoreBootcamp (en güncel olan)\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ProductAPI\\wwwroot\\Uploads\\panertikka.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\panertikka.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali Öztürk\\Downloads\\RadoreBootcamp (en güncel olan)\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ProductAPI\\wwwroot\\Uploads\\pavbhaji.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\pavbhaji.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali Öztürk\\Downloads\\RadoreBootcamp (en güncel olan)\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ProductAPI\\wwwroot\\Uploads\\react-suspense-ve-lazy-sonuclari-1.png",
+      "PackagePath": "staticwebassets\\Uploads\\react-suspense-ve-lazy-sonuclari-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ali Öztürk\\Downloads\\RadoreBootcamp (en güncel olan)\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ProductAPI\\wwwroot\\Uploads\\react-suspense-ve-lazy-sonuclari-2.png",
+      "PackagePath": "staticwebassets\\Uploads\\react-suspense-ve-lazy-sonuclari-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ali Öztürk\\Downloads\\RadoreBootcamp (en güncel olan)\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ProductAPI\\wwwroot\\Uploads\\samosa.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\samosa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali Öztürk\\Downloads\\RadoreBootcamp (en güncel olan)\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ProductAPI\\wwwroot\\Uploads\\sweetpie.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\sweetpie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali Öztürk\\Downloads\\RadoreBootcamp (en güncel olan)\\RadoreBootcamp\\11.gun\\EcommerceRadoreOrnek\\Radore.Services.ProductAPI\\wwwroot\\Uploads\\turkey_jug.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\turkey_jug.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Radore.Services.ProductAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Radore.Services.ProductAPI.props",
+      "PackagePath": "build\\Radore.Services.ProductAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Radore.Services.ProductAPI.props",
+      "PackagePath": "buildMultiTargeting\\Radore.Services.ProductAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Radore.Services.ProductAPI.props",
+      "PackagePath": "buildTransitive\\Radore.Services.ProductAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
